@@ -40,6 +40,15 @@ namespace AspWebContactForm {
         protected global::System.Web.UI.WebControls.TextBox FNameTB;
         
         /// <summary>
+        /// rfvFName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvFName;
+        
+        /// <summary>
         /// LNameTB control.
         /// </summary>
         /// <remarks>
@@ -47,6 +56,15 @@ namespace AspWebContactForm {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox LNameTB;
+        
+        /// <summary>
+        /// rfvLName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvLName;
         
         /// <summary>
         /// EmailTB control.
@@ -58,6 +76,15 @@ namespace AspWebContactForm {
         protected global::System.Web.UI.WebControls.TextBox EmailTB;
         
         /// <summary>
+        /// rfvEmail control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvEmail;
+        
+        /// <summary>
         /// CommentsTB control.
         /// </summary>
         /// <remarks>
@@ -65,6 +92,15 @@ namespace AspWebContactForm {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox CommentsTB;
+        
+        /// <summary>
+        /// rfvComments control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvComments;
         
         /// <summary>
         /// btnSubmit control.
